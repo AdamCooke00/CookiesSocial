@@ -1,3 +1,9 @@
+# Social Media App. Created Following Code Along
+
+Original Project found here: https://github.com/hidjou/classsed-graphql-mern-apollo/tree/master
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
